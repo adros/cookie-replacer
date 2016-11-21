@@ -13,13 +13,16 @@ Sample configuration
     "plugins": [
         "pro-xy-cookie-replace"
     ],
-    "pro-xy-cookie-replace": [
-		{
-			"urlPattern": ".*",
-			"pattern" : "test",
-			"replacement" : "_test"
-	    }
-	]
+    "pro-xy-cookie-replace": {
+		"disabled": true,
+		"replaces": [
+			{
+				"urlPattern": ".*",
+				"pattern" : "test",
+				"replacement" : "_test"
+		    }
+		]
+	}
 }
 ```
 
