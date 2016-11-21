@@ -1,4 +1,4 @@
-# cookie-replacer
+# pro-xy-cookie-replace
 
 Plugin for url-replace, that performs user defined replaces in cookies header in requests sent to server.
 
