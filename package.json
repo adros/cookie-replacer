@@ -1,12 +1,12 @@
 {
-	"name": "cookie-replacer",
-	"version": "0.0.1",
-	"description": "Plugin for url-replace. It allows doing replaces in cookies.",
-	"main": "replace-cookie.js",
+	"name": "pro-xy-cookie-replace",
+	"version": "0.1.0",
+	"description": "Plugin for pro-xy. It allows doing replaces in cookies.",
+	"main": "lib/proxyCookieReplace.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"repository": "https://github.com/zboro/cookie-replacer.git",
+	"repository": "https://github.com/adros/pro-xy-cookie-replace.git",
 	"author": "zboron.lukas@gmail.com",
 	"license": "ISC"
 }
